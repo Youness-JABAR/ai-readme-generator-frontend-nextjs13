@@ -1,7 +1,7 @@
 {
-  "name": "readme_front",
+  "name": "AI_README_GENERATOR_Frontend",
   "version": "0.1.0",
-  "private": true,
+  "private": true,  
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -19,6 +19,12 @@
     "postcss": "8.4.27",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-markdown": "^8.0.7",
+    "react-syntax-highlighter": "^15.5.0",
+    "rehype-katex": "^6.0.3",
+    "rehype-stringify": "^9.0.3",
+    "remark-gfm": "^3.0.1",
+    "remark-math": "^5.1.1",
     "tailwindcss": "3.3.3",
     "typescript": "5.1.6"
   }
